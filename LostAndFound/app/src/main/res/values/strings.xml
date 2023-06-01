@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Task 7.1P</string>
+    <string name="show_all_lost_amp_found"><![CDATA[Show all lost & Found Items]]></string>
+    <string name="create_a_new_advert">Create a New Advert</string>
+    <string name="post_type">Post Type:</string>
+    <string name="lost">Lost</string>
+    <string name="found">Found</string>
+    <string name="name">Name:</string>
+    <string name="phone">Phone:</string>
+    <string name="description">Description:</string>
+    <string name="date">Date:</string>
+    <string name="location">Location:</string>
+    <string name="save">Save</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="dd_mm_yyyy">DD/MM/YYYY</string>
+</resources>
